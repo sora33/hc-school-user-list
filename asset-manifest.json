@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/hc_-school_user_list/static/js/main.68d8b4d9.js",
+    "static/js/787.c834e6e3.chunk.js": "/hc_-school_user_list/static/js/787.c834e6e3.chunk.js",
+    "index.html": "/hc_-school_user_list/index.html",
+    "main.68d8b4d9.js.map": "/hc_-school_user_list/static/js/main.68d8b4d9.js.map",
+    "787.c834e6e3.chunk.js.map": "/hc_-school_user_list/static/js/787.c834e6e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.68d8b4d9.js"
+  ]
+}
